@@ -1,0 +1,18 @@
+footer {
+    background: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    min-height: 100px;
+	margin-top: 30px;
+}
+button.btn{
+	margin: .5rem;
+}
+.form-control{
+	margin: .5rem;
+}
+img{
+	max-width: 500px;
+	max-height: 500px;
+}
